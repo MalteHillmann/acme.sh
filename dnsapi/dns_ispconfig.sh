@@ -1,6 +1,6 @@
 #!/usr/bin/env sh
 
-# ISPConfig 3.1 API
+# ISPConfig 3.2 API
 # User must provide login data and URL to the ISPConfig installation incl. port. The remote user in ISPConfig must have access to:
 # - DNS txt Functions
 
